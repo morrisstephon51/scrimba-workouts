@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-size: 21px;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 36px
+}
+h3 {
+    font-size: 36px;
+}
+
+Header {
+    background-color: #588c94;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+}
+.intro {
+    width: 750px;
+    margin: 0 auto;
+}
+.my-skills {
+    background-color: #1d3c41;
+    color: white;
+    padding: 30px 0;
+}
+.column {
+    Margin: 5px;
+}
